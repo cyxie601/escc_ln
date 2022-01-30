@@ -33,30 +33,16 @@ All requirements are given in ```requirements.txt```
 ### Reference
 
 [
-Xception: Deep Learning with Depthwise Separable Convolutions
-](https://arxiv.org/abs/1610.02357)
-
-[
-Very Deep Convolutional Networks for Large-Scale Image Recognition
-](https://arxiv.org/abs/1409.1556)
+Computational Radiomics System to Decode the Radiographic Phenotype
+](https://doi.org/10.1158/0008-5472.CAN-17-0339)
 
 [
 Deep Residual Learning for Image Recognition
 ](https://arxiv.org/abs/1512.03385)
 
-[
-Rethinking the Inception Architecture for Computer Vision
-](https://arxiv.org/abs/1512.00567)
 
-[
-Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
-](https://arxiv.org/abs/1602.07261)
 
-[
-Visual Explanations from Deep Networks via Gradient-Based Localization
-](https://arxiv.org/abs/1610.02391)
 
-[Harmonization of multi-site imaging data with ComBat
-](https://github.com/Jfortin1/ComBatHarmonization)
+
 
 
